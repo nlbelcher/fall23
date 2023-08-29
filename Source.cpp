@@ -7,4 +7,6 @@ int main()
 	cout << "Make some changes." << endl;
 	cout << "Make some more changes?" << endl;
 	cout << "Are we supposed to do 5 commits?" << endl;
+	cout << "I am not sure, but I am doing 5 commits I guess" << endl;
+
 }
